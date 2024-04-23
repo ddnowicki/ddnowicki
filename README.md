@@ -3,6 +3,6 @@
 ```javascript
 const daniel = {
   code: ["C", "C++", "PHP", ".NET"],
-  tools: ["Linux", "Docer", "Scrum", "MySQL"],
+  tools: ["Linux", "Docer", "Scrum", "MySQL"]
 }
 ```
