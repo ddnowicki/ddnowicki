@@ -2,7 +2,8 @@
 
 ```javascript
 const daniel = {
-  code: ["C", "C++", "PHP", ".NET"],
-  tools: ["Linux", "Docer", "Scrum", "MySQL"]
+  langs: ["C", "C++", "PHP", ".NET"],
+  tools: ["Docker", "MySQL"],
+  os: ["Windows", "Linux"]
 }
 ```
