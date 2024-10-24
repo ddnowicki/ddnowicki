@@ -2,7 +2,7 @@
 
 ```javascript
 const daniel = {
-  langs: ["C", "C++", "PHP", ".NET"],
+  langs: [".NET", "C++"],
   tools: ["Docker", "MySQL"],
   os: ["Windows", "Linux"]
 }
