@@ -2,8 +2,11 @@
 
 ```javascript
 const daniel = {
+  age: 16,
   langs: [".NET", "C++"],
-  tools: ["Docker", "MySQL"],
-  os: ["Windows", "Linux"]
+  databases: ["MySQL", "MSSQL"],
+  tools: ["Docker"],
+  os: ["Windows", "Linux"],
+  courses: ["10xDevs"]
 }
 ```
