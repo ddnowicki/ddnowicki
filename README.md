@@ -7,6 +7,6 @@ const daniel = {
   databases: ["MySQL", "MSSQL"],
   tools: ["Docker"],
   os: ["Windows", "Linux"],
-  courses: ["10xDevs"]
+  courses: ["Bakcyl Programowania", "10xDevs"]
 }
 ```
