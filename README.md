@@ -3,7 +3,7 @@
 ```javascript
 const daniel = {
   age: 16,
-  langs: [".NET", "C++"],
+  langs: [".NET", "Python", "C++"],
   databases: ["MySQL", "MSSQL"],
   tools: ["Docker"],
   os: ["Windows", "Linux"],
